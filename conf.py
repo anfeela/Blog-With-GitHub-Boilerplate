@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "一消二建的博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+author = "摔电脑的梵高"
+email = "flysee@vip.qq.com"
+author_homepage = "https://www.163.com"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '二级建造师', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
