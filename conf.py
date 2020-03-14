@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "一消二建的博客"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}新的logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "摔电脑的梵高"
 email = "flysee@vip.qq.com"
